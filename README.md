@@ -2,4 +2,5 @@
 | 領域  | 技術 | リポジトリ |
 | --- | --- | --- |
 | フロント | Flutter | https://github.com/progate-hackathon-usagi/frontend |
-| バック | supabase edge function | |
+| バック | supabase edge function | https://github.com/progate-hackathon-usagi/edge-functions |
+
