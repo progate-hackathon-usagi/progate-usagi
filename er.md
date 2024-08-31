@@ -12,6 +12,6 @@ erDiagram
   exercise_logs {
     uuid id PK "UUID"
     uuid user_id FK
-    timestamp exercise_timestamp
+    timestampz timestamp
   }
 ```
